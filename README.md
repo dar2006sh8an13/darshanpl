@@ -49,7 +49,7 @@ I build AI-powered applications, experiment with Large Language Models, and deve
 ## 🌐 Connect
 
 - **GitHub:** [@dar2006sh8an13](https://github.com/dar2006sh8an13)
-- **LinkedIn:** Add your LinkedIn profile URL here.
+- **LinkedIn:** [Darshan P L](https://www.linkedin.com/in/darshan-p-l-poojar-lakshmipathi-72285b30a/)
 
 ---
 

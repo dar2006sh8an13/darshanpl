@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6A5CFF,100:FC466B&height=190&section=header&text=Darshan%20P%20L&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20LLM%20Builder%20%7C%20AI%20Agents&descAlignY=60&descSize=16" width="100%" alt="Darshan PL profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6A5CFF,100:FC466B&height=190&section=header&text=Darshan%20P%20L&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20LLM%20Builder&descAlignY=60&descSize=16" width="100%" alt="Darshan PL — AI Engineer and ML Developer" />
 
 <a href="https://github.com/dar2006sh8an13"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/darshan-p-l-poojar-lakshmipathi-72285b30a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
@@ -10,32 +10,45 @@
 
 ## 👋 About Me
 
-I'm an Artificial Intelligence and Machine Learning engineering student interested in building practical AI systems and developer tools.
+I'm Darshan PL, an Artificial Intelligence and Machine Learning engineering student from India. I build and experiment with practical AI applications, LLM-powered tools, and developer-focused systems.
 
-- 🤖 Exploring large language models, retrieval-augmented generation, and fine-tuning
-- 🧠 Building AI-powered applications, agents, and experimental language models
-- 🛠️ Learning model deployment, backend engineering, and software architecture
-- 🤝 Interested in thoughtful open-source collaboration
+- 🤖 Exploring large language models, RAG, fine-tuning, and AI agents
+- 🧠 Building AI-powered applications and experimental language models
+- 🛠️ Working across Python, machine learning, APIs, and web development
+- 🌱 Interested in system architecture, model deployment, and open-source software
+- 🤝 Open to learning, collaboration, and meaningful developer projects
 
-## 🧰 Technology Interests
+## 🚀 Featured Projects
 
-| Area | Tools and technologies |
+A selection of projects from my GitHub portfolio. See each repository for its current implementation, setup instructions, and roadmap.
+
+| Project | Focus | Repository |
+|---|---|---|
+| **Code AG** | Local-first autonomous AI coding assistant | [View project](https://github.com/dar2006sh8an13/coder-with-code) |
+| **KarTxt AI** | Kannada and English educational AI | [View project](https://github.com/dar2006sh8an13/kartxt-ai) |
+| **CollegeSikta** | KCET college prediction and discovery | [View project](https://github.com/dar2006sh8an13/collegesikta) |
+| **Labha AI** | Experimental small language model | [View project](https://github.com/dar2006sh8an13/labha-ai) |
+| **AI Crop Recommendation** | Machine-learning crop recommendation project | [View project](https://github.com/dar2006sh8an13/ai-crop-recommendation) |
+| **AI Stock Prediction** | Machine-learning experiments for stock prediction | [View project](https://github.com/dar2006sh8an13/ai-stock-prediction) |
+| **Data Analysis** | Python data analysis projects | [View project](https://github.com/dar2006sh8an13/data-analysis) |
+
+## 🧰 Skills & Technology Interests
+
+| Area | Technologies |
 |---|---|
-| Programming | Python, JavaScript, C |
-| AI and ML | PyTorch, TensorFlow, scikit-learn, OpenCV |
+| Programming | Python, JavaScript, C, SQL |
+| AI / ML | PyTorch, TensorFlow, scikit-learn, OpenCV |
 | LLM ecosystem | Hugging Face, Ollama, RAG, model evaluation |
-| Web and APIs | React, Node.js, FastAPI, Flask |
-| Data and infrastructure | MySQL, PostgreSQL, Docker, Git, GitHub |
+| Backend & Web | FastAPI, Flask, Node.js, React |
+| Data & Infrastructure | MySQL, PostgreSQL, Docker, Git, GitHub |
 
-## 🚀 Selected Projects
+## 🔬 What I'm Exploring
 
-| Project | Description |
-|---|---|
-| [KarTxt AI](https://github.com/dar2006sh8an13/kartxt-ai) | Kannada and English educational AI assistant |
-| [Code AG](https://github.com/dar2006sh8an13/coder-with-code) | Local-first autonomous AI coding assistant |
-| [CollegeSikta](https://github.com/dar2006sh8an13/collegesikta) | KCET admission prediction and college discovery project |
-| [AI Crop Recommendation](https://github.com/dar2006sh8an13/ai-crop-recommendation) | Machine-learning project focused on crop recommendations |
-| [Data Analysis](https://github.com/dar2006sh8an13/data-analysis) | Python-based data analysis work |
+- Autonomous coding agents and multi-agent workflows
+- LLM training, fine-tuning, and inference
+- Retrieval-augmented generation and vector search
+- Secure tool execution and agent evaluation
+- Cloud deployment and scalable software architecture
 
 ## 📊 GitHub Activity
 
